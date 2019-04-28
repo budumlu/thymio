@@ -36,7 +36,7 @@
 
 * [Einfacher Thymio-Leitfaden](https://aseba.wdfiles.com/local--files/de%3Athymiochallengepack/ARTWORK_GUIDE_A2_DE.pdf)
 * [Challenge-Karten für Anfänger](https://aseba.wdfiles.com/local--files/fr%3Athymiochallengepack/cards-de-it.pdf)
-* [Offizielle Aseba-Dokumentation](https://aseba.readthedocs.io/en/latest/index.html)
+* [Offizielle Aseba-Dokumentation](https://mobsya.github.io/aseba/)
 * [Das Thymio-Alphabet](https://aseba.wdfiles.com/local--files/fr%3Athymiochallengepack/Thymio_alphabet.pdf)
 * [Offizielle Thymio-Website](https://www.thymio.org/home-de:home)
 * [Aseba-Übersicht](https://aseba.wdfiles.com/local--files/en:asebausermanual/ThymioCheatSheet.pdf)
